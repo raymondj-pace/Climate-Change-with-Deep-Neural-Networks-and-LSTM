@@ -10,9 +10,10 @@ Climatologists have studied the change in air and ocean temperature and have com
 <br>
 <br>
 
-![Picture1](https://user-images.githubusercontent.com/94663542/213309553-2987ef1a-8e5f-456c-bb4d-3aa914de9e25.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94663542/213309553-2987ef1a-8e5f-456c-bb4d-3aa914de9e25.png?raw=true" />
+</p>
 
-<br>
 <br>
 <br>
 
