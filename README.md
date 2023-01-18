@@ -1,3 +1,5 @@
-# Climate-Change-with-Deep-Neural-Networks-and-LSTM
 
-Deep Neural network with Long-Short-Term-Memory for use with climate change time series
+
+
+
+Climatologists have studied the change in air and ocean temperature and have come up a set of risk-factors as the primary causes of climate-change. Reputable data sources have put together datasets for climate-change risk factors. Many of these factors are attributed to population- specifically overall population size, urban population size, educational level, life expectancy, poverty rate, population density, land usage types, energy consumption of renewable and non-renewable sources, greenhouse gas emissions. In a previous publication [1] I looked at using the Long Short Term Memory model [2] to create a time series prediction model based on global warming world temperatures. Within this new work, I take into consideration 30 climate-change features and use a deep neural network which includes stacked and bidirectional LSTM layers among others as shown below. For each of the top 13 countries based on GDP [3], a multivariate, time-series based dataset, with a dimensionality of 30, was created for each of the 13 countries. Each country’s dataset was used with the LSTM based model and a future climate change prediction is made.
