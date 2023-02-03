@@ -24,4 +24,4 @@ Climatologists have studied the change in air and ocean temperature and have com
 [2]	Hochreiter, S. & Schmidhuber, J. Neural Computation, Volume 9, Issue 8, pp 1735–1780, November 1997.
 
 [3]	World Population Review, https://worldpopulationreview.com/countries/countries-by-gdp
-![image](https://user-images.githubusercontent.com/94663542/213309406-497f177c-291f-4551-83ac-bbedf12665cf.png)
+
